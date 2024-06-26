@@ -1,0 +1,94 @@
+{
+    "osx_codenames": {
+        "16": {
+            "short": "big_sur",
+            "long": "macOS Big Sur"
+        },
+        "15": {
+            "short": "catalina",
+            "long": "macOS Catalina"
+        },
+        "14": {
+            "short": "mojave",
+            "long": "macOS Mojave"
+        },
+        "13": {
+            "short": "high_sierra",
+            "long": "macOS High Sierra"
+        },
+        "12": {
+            "short": "sierra",
+            "long": "macOS Sierra"
+        },
+        "11": {
+            "short": "el_capitan",
+            "long": "OS X El Capitan"
+        },
+        "10": {
+            "short": "yosemite",
+            "long": "OS X Yosemite"
+        },
+        "9": {
+            "short": "mavericks",
+            "long": "OS X Mavericks"
+        },
+        "8": {
+            "short": "mountain_lion",
+            "long": "OS X Mountain Lion"
+        },
+        "7": {
+            "short": "lion",
+            "long": "OS X Lion"
+        },
+        "6": {
+            "short": "snow_leopard",
+            "long": "Mac OS X Snow Leopard"
+        },
+        "5": {
+            "short": "leopard",
+            "long": "Mac OS X Leopard"
+        },
+        "4": {
+            "short": "tiger",
+            "long": "Mac OS X Tiger"
+        },
+        "3": {
+            "short": "panther",
+            "long": "Mac OS X Panther"
+        },
+        "2": {
+            "short": "jaguar",
+            "long": "Mac OS X Jaguar"
+        },
+        "1": {
+            "short": "puma",
+            "long": "Mac OS X Puma"
+        },
+        "0": {
+            "short": "cheetah",
+            "long": "Mac OS X Cheetah"
+        }
+    },
+    "macos_codenames": {
+        "11": {
+            "short": "big_sur",
+            "long": "macOS Big Sur"
+        },
+        "12": {
+            "short": "monterey",
+            "long": "macOS Monterey"
+        },
+        "13": {
+            "short": "ventura",
+            "long": "macOS Ventura"
+        },
+        "14": {
+            "short": "sonoma",
+            "long": "macOS Sonoma"
+        },
+        "15": {
+            "short": "sequoia",
+            "long": "macOS Sequoia"
+        }
+    }
+}
