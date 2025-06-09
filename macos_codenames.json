@@ -90,6 +90,10 @@
             "short": "sequoia",
             "long": "macOS Sequoia"
         },
+        "16": {
+            "short": "tahoe",
+            "long": "macOS Tahoe"
+        },
         "26": {
             "short": "tahoe",
             "long": "macOS Tahoe"
